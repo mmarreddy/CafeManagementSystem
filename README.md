@@ -1,3 +1,9 @@
+This project is a scalable Cafe Management system. It allows users to view a cafe's menu, add menu items, order from the menu, delete menu items, and get a customer's bill.
+
+
+
+
+
 ## Getting Started
 
 Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
